@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+pillow
+python-multipart
+onnxruntime
+numpy
+torch
+torchvision
+faiss-cpu
+git+https://github.com/openai/CLIP.git
